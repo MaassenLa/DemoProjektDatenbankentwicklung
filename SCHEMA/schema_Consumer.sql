@@ -1,0 +1,2 @@
+CREATE SCHEMA [Consumer] 
+AUTHORIZATION [dbo]
