@@ -1,0 +1,10 @@
+c:\Users\MaassenLa\Documents\code\Gerhardi\Demo-Datenbankprojekt\DemoProjektDatenbankentwicklung\bin\Debug\sql-demodb-datenbankprojekt.dacpac
+c:\Users\MaassenLa\Documents\code\Gerhardi\Demo-Datenbankprojekt\DemoProjektDatenbankentwicklung\bin\Debug\empty.dll
+c:\Users\MaassenLa\Documents\code\Gerhardi\Demo-Datenbankprojekt\DemoProjektDatenbankentwicklung\bin\Debug\empty.pdb
+c:\Users\MaassenLa\Documents\code\Gerhardi\Demo-Datenbankprojekt\DemoProjektDatenbankentwicklung\obj\Debug\sql-demodb-datenbankprojekt.sqlproj.AssemblyReference.cache
+c:\Users\MaassenLa\Documents\code\Gerhardi\Demo-Datenbankprojekt\DemoProjektDatenbankentwicklung\obj\Debug\Model.xml
+c:\Users\MaassenLa\Documents\code\Gerhardi\Demo-Datenbankprojekt\DemoProjektDatenbankentwicklung\obj\Debug\refactor.xml
+c:\Users\MaassenLa\Documents\code\Gerhardi\Demo-Datenbankprojekt\DemoProjektDatenbankentwicklung\obj\Debug\postdeploy.sql
+c:\Users\MaassenLa\Documents\code\Gerhardi\Demo-Datenbankprojekt\DemoProjektDatenbankentwicklung\obj\Debug\predeploy.sql
+c:\Users\MaassenLa\Documents\code\Gerhardi\Demo-Datenbankprojekt\DemoProjektDatenbankentwicklung\obj\Debug\empty.dll
+c:\Users\MaassenLa\Documents\code\Gerhardi\Demo-Datenbankprojekt\DemoProjektDatenbankentwicklung\obj\Debug\empty.pdb

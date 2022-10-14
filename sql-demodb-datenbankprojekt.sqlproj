@@ -72,6 +72,13 @@
     <Folder Include="INTEGRATION\PROCEDURES\" />
     <Folder Include="CONSUMER\TABLES\" />
     <Folder Include="CONSUMER\VIEWS\" />
+    <Folder Include="STAGE1\VIEWS\" />
+    <Folder Include="STAGE1\SEQUENCES\" />
+    <Folder Include="DBO\" />
+    <Folder Include="DBO\FUNCTIONS\" />
+    <Folder Include="DBO\PROCEDURES\" />
+    <Folder Include="DBO\TABLES\" />
+    <Folder Include="DBO\UserDefinedTypes\" />
   </ItemGroup>
   <Target Name="BeforeBuild">
     <Delete Files="$(BaseIntermediateOutputPath)\project.assets.json" />
@@ -80,5 +87,33 @@
     <Build Include="SCHEMA\schema_SalesLT.sql" />
     <Build Include="SCHEMA\schema_integration.sql" />
     <Build Include="SCHEMA\schema_Consumer.sql" />
+    <Build Include="STAGE1\VIEWS\vGetAllCategories.sql" />
+    <Build Include="STAGE1\VIEWS\vProductAndDescription.sql" />
+    <Build Include="STAGE1\VIEWS\vProductModelCatalogDescription.sql" />
+    <Build Include="STAGE1\SEQUENCES\SalesOrderNumber.sql" />
+    <Build Include="STAGE1\TABLES\Address.sql" />
+    <Build Include="STAGE1\TABLES\Customer.sql" />
+    <Build Include="STAGE1\TABLES\CustomerAdress.sql" />
+    <Build Include="STAGE1\TABLES\Product.sql" />
+    <Build Include="STAGE1\TABLES\ProductCategory.sql" />
+    <Build Include="STAGE1\TABLES\ProductDescription.sql" />
+    <Build Include="STAGE1\TABLES\ProductModel.sql" />
+    <Build Include="STAGE1\TABLES\ProductModelProductDescription.sql" />
+    <Build Include="STAGE1\TABLES\SalesOrderDetail.sql" />
+    <Build Include="STAGE1\TABLES\SalesOrderHeader.sql" />
+    <Build Include="DBO\FUNCTIONS\ufnGetAllCategories.sql" />
+    <Build Include="DBO\FUNCTIONS\ufnGetCustomerInformation.sql" />
+    <Build Include="DBO\FUNCTIONS\ufnGetSalesOrderStatusText.sql" />
+    <Build Include="DBO\PROCEDURES\uspLogError.sql" />
+    <Build Include="DBO\PROCEDURES\uspPrintError.sql" />
+    <Build Include="DBO\TABLES\BuildVersion.sql" />
+    <Build Include="DBO\TABLES\ErrorLog.sql" />
+    <Build Include="DBO\UserDefinedTypes\AccountNumber.sql" />
+    <Build Include="DBO\UserDefinedTypes\Flag.sql" />
+    <Build Include="DBO\UserDefinedTypes\Name.sql" />
+    <Build Include="DBO\UserDefinedTypes\NameStyle.sql" />
+    <Build Include="DBO\UserDefinedTypes\OrderNumber.sql" />
+    <Build Include="DBO\UserDefinedTypes\Phone.sql" />
+    <Build Include="SECURITY\annalena_woelwer.sql" />
   </ItemGroup>
 </Project>

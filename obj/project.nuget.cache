@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3bTH4W9vRbbUfDUvaJs0myH6ShXylUQSy+qHUr8oThMvCM8Tz6O0dYOlE5+DIOvCTp3TOgTbPo9d7u7cbWOjrA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\MaassenLa\\Documents\\code\\Gerhardi\\Demo-Datenbankprojekt\\DemoProjektDatenbankentwicklung\\sql-demodb-datenbankprojekt.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MaassenLa\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\MaassenLa\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
